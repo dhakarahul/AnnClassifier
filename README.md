@@ -110,14 +110,6 @@ input_data = input_data[expected_columns]
 ```python
 geo_encoded = one_hot_encoder_geo.transform([[geography]]).toarray()
 ```
-
----
-
-## **Future Enhancements**  
- Improve model accuracy with hyperparameter tuning  
- Deploy on cloud platforms like AWS/GCP  
- Expand dataset with more customer features  
-
 ---
 
 ## **Contributors**  
