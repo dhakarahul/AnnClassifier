@@ -1,2 +1,2 @@
-# AnnClassifier
-Created a Classifier model for predicting the churn
+# DSML-Streamlit
+ MLOps
